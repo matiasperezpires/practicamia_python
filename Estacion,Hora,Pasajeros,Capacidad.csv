@@ -1,0 +1,5 @@
+Estacion,Hora,Pasajeros,Capacidad
+Centro,08:00,120,100
+Norte,08:00,80,100
+Sur,09:00,150,100
+Este,09:00,90,100
